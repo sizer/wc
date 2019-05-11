@@ -4,6 +4,9 @@
   "description": "components library",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "dependencies": {
     "lit-element": "^2.1.0"
   },
