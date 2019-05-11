@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "components library",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.1.0"
+  }
 }
