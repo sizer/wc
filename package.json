@@ -1,0 +1,9 @@
+{
+  "name": "wc",
+  "version": "1.0.0",
+  "description": "web-components",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/sizer/wc",
+  "author": "sizer <shinse.tanaka@gmail.com>",
+  "license": "MIT"
+}
